@@ -1,0 +1,7 @@
+C:\Users\ericb\source\repos\BoletosSimposium\BoletosSimposium\bin\Debug\BoletosSimposium.exe.config
+C:\Users\ericb\source\repos\BoletosSimposium\BoletosSimposium\bin\Debug\BoletosSimposium.exe
+C:\Users\ericb\source\repos\BoletosSimposium\BoletosSimposium\bin\Debug\BoletosSimposium.pdb
+C:\Users\ericb\source\repos\BoletosSimposium\BoletosSimposium\obj\Debug\BoletosSimposium.csproj.AssemblyReference.cache
+C:\Users\ericb\source\repos\BoletosSimposium\BoletosSimposium\obj\Debug\BoletosSimposium.csproj.CoreCompileInputs.cache
+C:\Users\ericb\source\repos\BoletosSimposium\BoletosSimposium\obj\Debug\BoletosSimposium.exe
+C:\Users\ericb\source\repos\BoletosSimposium\BoletosSimposium\obj\Debug\BoletosSimposium.pdb
